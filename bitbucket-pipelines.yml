@@ -8,4 +8,4 @@ pipelines:
           - pip install python-telegram-bot --upgrade
           - ls
           - chmod +x *
-          - python3 flash.py
+          - python3 f.py
